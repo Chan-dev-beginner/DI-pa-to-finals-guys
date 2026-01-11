@@ -3,7 +3,7 @@ Login
 AddBook
 StudentMain
 
-Inc:
+Incomplete:
 AdminMain (AddStudent)
 BorrowBook
 ReturnBook
